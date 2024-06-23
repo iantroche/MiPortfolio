@@ -1,2 +1,0 @@
-# MiPortfolio
-Primer web PPY
